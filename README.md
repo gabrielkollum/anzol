@@ -8,7 +8,7 @@
 </p>
 
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="images/anzol.png" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="public/images/anzol.png" width="400"></a></p>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
